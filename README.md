@@ -42,7 +42,7 @@ To perform ETL, create Sales and Finance reports in Excel and provide data-drive
 
 ## 👩‍💻 Author
 **Mognia Patan**
-Data Analyst | B.Tech - SVCE, Tirupati
+Data Analyst | B.Tech - SVCN, Nellore
 
 GitHub: mogniapatan
 
